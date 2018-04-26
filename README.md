@@ -6,4 +6,6 @@ We're gonna learn how 2 git gud
  * Suki
  * Kirk
  * Daphne
+ * Michelle
+ 
  
